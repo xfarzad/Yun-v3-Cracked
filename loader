@@ -1,0 +1,3 @@
+-- if you got kicked rejoin and execute again do it few times and it will work.
+
+loadstring(game:HttpGet("https://fed.gay/files/yun/YunV3_Federal_Edition.lua"))()
